@@ -18,26 +18,6 @@ export default function About() {
             id="about"
         >
             <SectionHeading>About me</SectionHeading>
-            {/* <p className="mb-3">
-                After graduating with a degree in <span className="font-medium">Accounting</span>, I
-                decided to pursue my passion for programming. I enrolled in a coding bootcamp and
-                learned <span className="font-medium">full-stack web development</span>.{' '}
-                <span className="italic">My favorite part of programming</span> is the
-                problem-solving aspect. I <span className="underline">love</span> the feeling of
-                finally figuring out a solution to a problem. My core stack is{' '}
-                <span className="font-medium">React, Next.js, Node.js, and MongoDB</span>. I am also
-                familiar with TypeScript and Prisma. I am always looking to learn new technologies.
-                I am currently looking for a <span className="font-medium">full-time position</span>{' '}
-                as a software developer.
-            </p>
-
-            <p>
-                <span className="italic">When I'm not coding</span>, I enjoy playing video games,
-                watching movies, and playing with my dog. I also enjoy{' '}
-                <span className="font-medium">learning new things</span>. I am currently learning
-                about <span className="font-medium">history and philosophy</span>. I'm also learning
-                how to play the guitar.
-            </p> */}
 
             <p className="mb-3">
                 After graduating with a degree in{' '}
@@ -55,15 +35,19 @@ export default function About() {
             <p>
                 <span className="italic">In my free time</span>, I love binge-watching{' '}
                 <span className="font-medium">cybersecurity or networking content</span> and reading
-                books about programming, such as <span className="font-medium">"Clean Code"</span>{' '}
-                and various JavaScript topics. I am always eager to learn new technologies and
-                expand my knowledge. Currently, I am seeking a{' '}
+                books about programming, such as <span className="font-medium">"Clean Code"</span>,{' '}
+                <span className="font-medium">"Domain-Driven Design" by Eric Evans</span>,{' '}
+                <span className="font-medium">"Design Patterns"</span>, and{' '}
+                <span className="font-medium">"The Pragmatic Programmer"</span>. I also enjoy reading
+                articles on <span className="font-medium">Medium and other tech sites</span> to stay
+                updated with the latest trends and best practices. I am always eager to learn new
+                technologies and expand my knowledge. Currently, I am seeking a{' '}
                 <span className="font-medium">full-time position</span> as a software developer.
             </p>
 
             <p>
-                <span className="italic">Outside of coding</span>
-                watching movies and animes, reading manga. I also have a keen interest in{' '}
+                <span className="italic">Outside of coding</span>, I enjoy watching movies and
+                animes, reading manga. I also have a keen interest in{' '}
                 <span className="font-medium">learning new things</span>, such as history and I'm
                 currently teaching myself how to play the guitar.
             </p>
