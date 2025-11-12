@@ -63,10 +63,10 @@ export default function Intro() {
                 animate={{ opacity: 1, y: 0 }}
             >
                 <span className="font-bold">Hello, I'm Princeton.</span> I'm a{' '}
-                <span className="font-bold">full-stack web developer</span> with{' '}
-                <span className="font-bold">1 year</span> of experience. I enjoy building{' '}
-                <span className="italic">sites & apps</span>. My focus is{' '}
-                <span className="underline">React and Angular</span>.
+                <span className="font-bold">Full Stack Developer</span> who transforms ideas into robust, scalable applications. Specialized in modern web development with{' '}
+                <span className="font-bold">React, Angular, Node.js, and NestJS</span>, I build solutions that are not just functional—but maintainable and future-proof. I leverage architectural patterns like{' '}
+                <span className="italic">DDD and Hexagonal Architecture</span> to create systems where change is easy, not painful. Proficient in the{' '}
+                <span className="underline">full development lifecycle</span>—from frontend to database design to DevOps deployment.
             </motion.h1>
 
             <motion.div
