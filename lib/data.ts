@@ -35,12 +35,28 @@ export const links = [
 
 export const experiencesData = [
     {
+        title: 'Full Stack Software Programmer',
+        location: 'Hyperion',
+        description:
+            'Contributing to a digital services platform for social media content and publishing. Leading frontend architecture refactoring initiatives and implementing key features while collaborating with QA to maintain quality standards.',
+        icon: React.createElement(CgWorkAlt),
+        date: 'Sept 2025 - present',
+    },
+    {
+        title: 'Fullstack Developer',
+        location: 'FullStackHQ',
+        description:
+            'Led the architecture and development of a monolithic email client using DDD, Hexagonal Architecture, CQRS, and Event-Driven principles. Delivered full-stack features with React (Atomic Design, Redux) and Node.js. Set up scalable DevOps environments using Docker, Linux, and Coolify while handling code reviews and R&D for third-party integrations.',
+        icon: React.createElement(CgWorkAlt),
+        date: 'Sept 2024 - Sept 2025',
+    },
+    {
         title: 'System Developer',
         location: 'Sta Mesa Manila',
         description:
             'I worked as a System Developer for 2 years. I also upskilled to the full stack.',
         icon: React.createElement(CgWorkAlt),
-        date: '2023 - 2024',
+        date: 'Nov 2023 - Sept 2024',
     },
     {
         title: 'Graduated KodeGo Bootcamp',
